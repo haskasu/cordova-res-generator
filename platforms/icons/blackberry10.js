@@ -1,7 +1,7 @@
 module.exports = {
     platform: 'blackberry10',
     type: 'icon',
-    path: 'blackberry10/icon/',
+    path: 'icon/blackberry10/',
     definitions: [
         // application icons
         {

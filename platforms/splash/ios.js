@@ -1,7 +1,7 @@
 module.exports = {
     platform: 'ios',
     type: 'splash',
-    path: 'ios/splash/',
+    path: 'splash/ios/',
     definitions: [{
             name: "Default-568h@2x~iphone.png",
             width: 640,

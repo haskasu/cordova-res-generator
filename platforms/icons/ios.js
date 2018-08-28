@@ -1,7 +1,7 @@
 module.exports = {
     platform: 'ios',
     type: 'icon',
-    path: 'ios/icon',
+    path: 'icon/ios/',
     definitions: [{
             name: 'icon.png',
             size: 57,
@@ -100,6 +100,17 @@ module.exports = {
             name: 'icon-small@3x.png',
             size: 87,
             comment: 'iPhone Spotlight and Settings Icon'
+        },
+        // App Submission
+        {
+            name: 'iTunesArtwork.png',
+            size: 512,
+            comment: 'App Submission'
+        },
+        {
+            name: 'iTunesArtwork@2x.png',
+            size: 1024,
+            comment: 'App Submission'
         }
     ]
 };

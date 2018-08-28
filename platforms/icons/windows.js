@@ -2,7 +2,7 @@ module.exports = {
     // https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/app-assets
     platform: 'windows',
     type: 'icon',
-    path: 'windows/icon/',
+    path: 'icon/windows/',
     definitions: [
         // Small tile (Square71x71Logo)
         {

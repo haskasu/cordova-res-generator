@@ -1,7 +1,7 @@
 module.exports = {
     platform: 'android',
     type: 'icon',
-    path: 'android/icon/',
+    path: 'icon/android/',
     definitions: [
         {
             name: 'drawable-ldpi-icon.png',
