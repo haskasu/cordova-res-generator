@@ -2,7 +2,7 @@ module.exports = {
     // https://docs.microsoft.com/en-us/windows/uwp/design/shell/tiles-and-notifications/app-assets
     platform: 'windows',
     type: 'splash',
-    path: 'splash/windows/',
+    path: 'screen/windows/',
     definitions: [
         // Wide tile (Wide310x150Logo)
         
